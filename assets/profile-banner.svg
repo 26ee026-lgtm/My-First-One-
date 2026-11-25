@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Raaja Raajeswaree R. — Electronics and Hardware</title>
+  <desc id="description">A green-themed banner celebrating curiosity, electronics, and a first-year engineering journey.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#064e3b"/>
+      <stop offset="55%" stop-color="#047857"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#d1fae5" stroke-opacity=".12" stroke-width="1"/>
+      <circle cx="0" cy="0" r="2" fill="#d1fae5" fill-opacity=".28"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <g fill="none" stroke="#a7f3d0" stroke-opacity=".8" stroke-width="3">
+    <path d="M880 62h86v50h76m-162 0v74h54m108-74v98h72m-234 0h-74v-54m206 54v48h-78"/>
+    <circle cx="880" cy="62" r="6" fill="#d1fae5"/><circle cx="1042" cy="112" r="6" fill="#d1fae5"/>
+    <circle cx="934" cy="186" r="6" fill="#d1fae5"/><circle cx="1178" cy="210" r="6" fill="#d1fae5"/>
+    <circle cx="808" cy="186" r="6" fill="#d1fae5"/><circle cx="1054" cy="258" r="6" fill="#d1fae5"/>
+  </g>
+  <g transform="translate(100 98)" fill="none" stroke="#ecfdf5" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M46 0v33M46 99v33M0 66h33m26 0h33M14 34l23 23m18 18 23 23m0-64L55 57m-18 18L14 98"/>
+    <circle cx="46" cy="66" r="27" fill="#065f46"/>
+    <path d="M46 52v28m-11-14h22"/>
+  </g>
+  <text x="235" y="138" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">RAAJA RAAJESWAREE R.</text>
+  <text x="238" y="190" fill="#d1fae5" font-family="Arial, Helvetica, sans-serif" font-size="24">Electronics • Hardware • Simulation</text>
+  <text x="238" y="246" fill="#ecfdf5" font-family="Arial, Helvetica, sans-serif" font-size="20">A first-year engineering student at RMKEC, learning by building.</text>
+  <text x="238" y="296" fill="#a7f3d0" font-family="Arial, Helvetica, sans-serif" font-size="17" font-style="italic">“Curiosity is the first circuit that powers every great idea.”</text>
+</svg>
